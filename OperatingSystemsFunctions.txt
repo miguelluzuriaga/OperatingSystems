@@ -1,0 +1,1 @@
+All operating systems must have a file management system. File systems are often organized into directories for easier navigation in order to maximize efficiency. Individual files are stored within these directories, and possibly other directories as well. The operating system keeps track of where files are stored, information about the stored files, and who can access said data.
